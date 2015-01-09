@@ -8,3 +8,5 @@ Now we add this :)
 
 v4:
 BRANCHING!!
+
+First commit from Grzegorz
