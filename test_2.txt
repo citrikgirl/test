@@ -1,7 +1,5 @@
 jdjdjdjajaja
 
-lkhksjadhaksjdhaskdjhasdjh
-
 v2:
 
 Now we add this :)
@@ -14,3 +12,5 @@ First commit from Grzegorz
 And now the second comming for playing even more!
 
 Private changes for dev-Grzegorz Branch
+
+Another changes for dev-Grzegorz
